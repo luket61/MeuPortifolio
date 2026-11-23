@@ -66,9 +66,13 @@ body {
 
 h2 {
   color: #1a237e;     
-  font-size: 28px;     
+  font-size: 28px; 
+    
 }
-
+ul {
+  color: #17bee4;
+  font-size: 20px;
+}
 p {
   color: #333333;      
   font-size: 20px;     
